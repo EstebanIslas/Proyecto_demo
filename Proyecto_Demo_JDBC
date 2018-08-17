@@ -21,7 +21,7 @@ public class JFProyectoDemo extends javax.swing.JFrame {
     *
     * @author EstebanIslasSantos
     */
-    
+    //Un nuevo comentario
     //Variables para la conexión.
     public String desicion = "";
     private Connection conexion;
